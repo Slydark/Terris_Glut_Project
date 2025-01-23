@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1730828996 source:c:\users\scd um\desktop\testqt\tetris\maketetrisagain\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+	<vector>
+	<ctime>
+	<string>
+
+1426346128 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426346128 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426346128 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1737022770 source:c:\users\scd um\desktop\projets\projet tetris\tertris_freeglut\maketetrisagain\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+	<vector>
+	<ctime>
+	<string>
+
